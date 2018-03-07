@@ -1,0 +1,3 @@
+AUTOMAKE_OPTIONS=foreign
+bin_PROGRAM=bb
+bb_SOURCES=aa.c aa.h bb.c bb.h
