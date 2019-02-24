@@ -3,4 +3,3 @@ void func( char * a)
 {
   printf(a);
 }
-sssss
